@@ -1,0 +1,6 @@
+﻿
+from_addr = '874089278@qq.com'
+password = 'doyzyxchvnldbbbe'
+to_addr = ['18811316839@163.com','yangguang197@mails.ucas.edu.cn']
+# 发信服务器
+smtp_server = 'smtp.qq.com'
