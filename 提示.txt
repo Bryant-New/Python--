@@ -1,0 +1,2 @@
+excel编码格式-gbk,python编码格式-utf-8,两者打开会产生乱码，
+所以使用pythonIDE中使用open函数打开.csv格式文件时，加入encoding='utf-8'
